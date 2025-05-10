@@ -2,7 +2,6 @@
 
 🎓 **Computer Science Student** at Faculty of Science.  
 💡 Passionate about **Problem Solving** and **Web Development**.  
-🏆 Practicing competitive programming on **Codeforces** 
 
 ---
 
